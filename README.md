@@ -1,4 +1,4 @@
-📘 Sobre o Projeto
+ Sobre o Projeto
 
 O portal_de_noticiasPHP apresenta um sistema completo de gerenciamento de notícias, incluindo registro de usuários, login, painel administrativo e exibição pública das notícias.
 
@@ -50,7 +50,7 @@ portal_de_noticiasPHP/
 ├── style.css
 └── dump.sql          → script do banco de dados
 
-🔑 Lógica de Autenticação
+ Lógica de Autenticação
 
 O sistema utiliza sessões PHP para:
 
@@ -62,7 +62,7 @@ impedir acesso ao painel sem autenticação,
 
 permitir logout destruindo a sessão.
 
-🖼️ Lógica de Upload de Imagens
+ Lógica de Upload de Imagens
 
 As imagens são enviadas pelo formulário da notícia.
 
@@ -70,7 +70,7 @@ São salvas na pasta /imagens.
 
 O caminho é gravado no banco de dados para exibição.
 
-✔️ Funcionalidades Implementadas
+ Funcionalidades Implementadas
 
 Cadastro de usuários
 
@@ -94,7 +94,7 @@ Gerenciamento de usuários
 
 Painel administrativo protegido
 
-🚀 Possíveis Melhorias
+ Possíveis Melhorias
 
 Paginação das notícias
 
@@ -112,16 +112,16 @@ Melhoria da interface com Bootstrap
 
 Campo de busca interna
 
-👨‍💻 Autor
+ Autor
 
 Nome: Laerte Ferraz da Silva Júnior
 Instituição: Curso Técnico em Informática — Escola Ulbra São Lucas
 Disciplina: Desenvolvimento Web II – PHP
 Professor: Jeferson Leon
 
-📄 Licença
+ Licença
 
 Projeto desenvolvido para fins educacionais.
 Livre para estudo, modificação e uso, desde que mantidos os créditos ao autor.
 
-“Programar é transformar lógica em experiência. Cada página é uma conversa entre servidor e usuário.” 💻🔥
+“Programar é transformar lógica em experiência. Cada página é uma conversa entre servidor e usuário.” 
